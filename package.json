@@ -1,0 +1,22 @@
+{
+  "name": "game_russell",
+  "version": "1.0.0",
+  "description": "this is a game so I can learn to build a node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/russell-johnson/russell-game.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Russell Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/russell-johnson/russell-game/issues"
+  },
+  "homepage": "https://github.com/russell-johnson/russell-game#readme"
+}
